@@ -1,0 +1,277 @@
+{
+    "ABHA-9821-4432-1092": {
+        "abha_id": "ABHA-9821-4432-1092",
+        "name": "Gurpreet Singh",
+        "age_gender": "42, Male",
+        "blood_group": "B+",
+        "raw_intake": "I have a mild fever",
+        "dashavidha": {
+            "Prakriti (Constitutional Type)": "Pitta-Vata Predominant",
+            "Agni (Digestive / Metabolic Fire)": "Mandagni (Diminished)",
+            "Dushya (Affected Tissues)": "Rasa & Rakta",
+            "Bala (Systemic Vitality)": "Madhyama (Moderate)"
+        },
+        "allopathic": {
+            "Chief Complaint": "High grade fever with retrosternal chest tightness",
+            "Duration": "3 Days",
+            "Severity Index": "Moderate - High",
+            "Suspected Triage Category": "Acute Febrile Illness / Respiratory Assessment Required"
+        },
+        "prescription": [
+            {
+                "medicine": "Paracetamol + Azithromycin",
+                "dosage": "650mg / 500mg",
+                "timing": "08:00 AM & 08:00 PM",
+                "instructions": "Take after meals with warm water. Rest for 48 hours."
+            }
+        ]
+    },
+    "patients": [
+        {
+            "id": "ABHA-8988-1649",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "Patient reports severe stomach pain and acidity after eating.",
+            "specialty": "Gastroenterologist",
+            "allopathic_notes": "Diagnosis: Suspected Acid Peptic Disease / Gastritis. Recommended: Endoscopy & Antacids.",
+            "ayush_notes": "Dashavidha Pariksha: Pitta Dosha Aggravation, Amlapitta (Hyperacidity).",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "surgery",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:10:07",
+            "prescribed_test": "None (No Test Required)"
+        },
+        {
+            "id": "ABHA-6672-1314",
+            "name": "Aditya",
+            "age": 32,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i am facing pimples at random places\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "lacto calamine",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:18:33"
+        },
+        {
+            "id": "ABHA-7901-5171",
+            "name": "rohan",
+            "age": 21,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "mujhe mere sir mai bohot dard hai\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "do something bro\n",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:25:49"
+        },
+        {
+            "id": "ABHA-8331-6916",
+            "name": "Akshit",
+            "age": 20,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i have headache and sharp pain in my chest left side",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "Pending Doctor Review",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:38:33"
+        },
+        {
+            "id": "ABHA-5672-4541",
+            "name": "Shivam",
+            "age": 14,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i have sharp chest pain\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "Xray and MRI",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 16:02:52"
+        },
+        {
+            "id": "ABHA-2265-8572",
+            "name": "Akshir",
+            "age": 31,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i have a fever\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: Viral Pyrexia / Upper Respiratory Infection. Recommended: CBC Test.",
+            "ayush_notes": "Dashavidha Pariksha: Kapha-Vata Imbalance (Jwara).",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "Pending Doctor Review",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 16:38:30"
+        },
+        {
+            "id": "ABHA-1644-3287",
+            "name": "Aarav ",
+            "age": 22,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "mujhe ek mahine se heart ki problem hai",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise.\nRecommended: Vitals & Basic Blood Panel.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "Comprehensive Health Check / X-Ray",
+            "prescription": "Pending Doctor Review",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 10:51:57"
+        },
+        {
+            "id": "ABHA-8268-3324",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "\u092e\u0941\u091d\u0947 \u0926\u093f\u0932 \u0915\u093e \u0926\u094c\u0930\u093e \u092a\u0921\u093c \u0930\u0939\u093e \u0939\u0948",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise / Unspecified.\nRecommended: Vitals & Basic Blood Panel.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "Comprehensive Health Check / X-Ray",
+            "prescription": "Pending Doctor Review",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 11:02:44"
+        },
+        {
+            "id": "ABHA-7927-2942",
+            "name": "Aaryaa",
+            "age": 32,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "i am having rashes at my legs\n",
+            "specialty": "Dermatologist",
+            "allopathic_notes": "Diagnosis: Suspected Dermatitis / Eczema.\nRecommended: Topical Corticosteroids & Antihistamines.",
+            "ayush_notes": "Dashavidha Pariksha: Pitta and Rakta Dhatu Imbalance.\nRecommended: Neem and Manjistha therapy.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "MRI Scan (Joint / Spine)",
+            "prescription": "use lacto calamine",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 11:04:51"
+        },
+        {
+            "id": "OPD-TKN-750",
+            "abha_id": "123456789",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "symptoms": "heart attack",
+            "specialty": "Cardiologist",
+            "allopathic_notes": "Diagnosis: Suspected Cardiac Arrhythmia / Angina.\nRecommended: ECG and Troponin blood test.",
+            "ayush_notes": "Dashavidha Pariksha: Prana Vata and Sadhaka Pitta Imbalance.\nRecommended: Hridya Basti.",
+            "prescribed_test": "ECG (Electrocardiogram)",
+            "prescription": "Pending Doctor Review",
+            "status": "In Queue",
+            "timestamp": "2026-09-19 11:14:16"
+        },
+        {
+            "id": "OPD-TKN-443",
+            "abha_id": "14-7294-XXXX-XXXX",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "symptoms": "teeth broken",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise / Unspecified.\nRecommended: Vitals & Basic Blood Panel.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "prescribed_test": "None (No Test Required)",
+            "prescription": "Pending Doctor Review",
+            "status": "In Queue",
+            "timestamp": "2026-09-19 11:15:22"
+        },
+        {
+            "id": "OPD-TKN-857",
+            "abha_id": "14-7294-6474",
+            "name": "aaryaaa",
+            "age": 35,
+            "symptoms": "i am having a issue in my hearth",
+            "specialty": "Cardiologist",
+            "allopathic_notes": "Diagnosis: Suspected Cardiac Arrhythmia / Angina.\nRecommended: ECG and Troponin blood test.",
+            "ayush_notes": "Dashavidha Pariksha: Prana Vata and Sadhaka Pitta Imbalance.\nRecommended: Hridya Basti.",
+            "prescribed_test": "ECG (Electrocardiogram)",
+            "prescription": "ecg",
+            "status": "In Queue",
+            "timestamp": "2026-09-19 13:11:09"
+        },
+        {
+            "id": "OPD-TKN-201",
+            "abha_id": "14-7294-XXXX-XXXX",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "symptoms": "i am having heart attack",
+            "specialty": "Cardiologist",
+            "allopathic_notes": "Diagnosis: Suspected Cardiac Arrhythmia / Angina.\nRecommended: ECG and Troponin blood test.",
+            "ayush_notes": "Dashavidha Pariksha: Prana Vata and Sadhaka Pitta Imbalance.\nRecommended: Hridya Basti.",
+            "prescribed_test": "ECG (Electrocardiogram)",
+            "prescription": "Pending Doctor Review",
+            "status": "In Queue",
+            "timestamp": "2026-09-21 15:18:31"
+        },
+        {
+            "id": "OPD-TKN-629",
+            "abha_id": "14-7294-XXXX-XXXX",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "symptoms": "\u0a2e\u0a48\u0a28\u0a42\u0a70 \u0a16\u0a3e\u0a02\u0a38\u0a40 \u0a1c\u0a3c\u0a41\u0a15\u0a3e\u0a2e \u0a26\u0a40 \u0a26\u0a3f\u0a71\u0a15\u0a24 \u0a39\u0a48",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise / Unspecified.\nRecommended: Vitals & Basic Blood Panel.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "prescribed_test": "Comprehensive Health Check / X-Ray",
+            "prescription": "Pending Doctor Review",
+            "status": "In Queue",
+            "timestamp": "2026-10-16 21:29:53"
+        }
+    ],
+    "complaints": [
+        {
+            "ticket": "CMO-TICKET-79947",
+            "department": "General Administration",
+            "issue": "Diagnostic Overcharging",
+            "description": "I had only some  minor pain but he asked for xray and MRi ",
+            "status": "Under Investigation (SLA: 24h)",
+            "timestamp": "2026-09-18 16:05:15"
+        }
+    ]
+}
